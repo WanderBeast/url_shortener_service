@@ -1,4 +1,4 @@
 {
-  "mongoURI": "",
-  "baseUrl": "http://localhost:5000"
+  "mongoURI": "mongodb+srv://dbUser1:P@$$W0rd15@cluster0.cv7dp.mongodb.net/orbt_al?retryWrites=true&w=majority",
+  "baseUrl": "https://orbt.al"
 }

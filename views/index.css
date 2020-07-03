@@ -1,0 +1,38 @@
+html {
+	background-image: url('https://img.orbital.dev/christian-joudrey-96208-unsplash.jpg');
+	background-size:cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#title {
+	font-weight:bold;
+	text-shadow:0 0 15px black;
+}
+
+#url-shortener {
+	background-color: rgba(255, 255, 255, 0.95);
+	border:3px solid rgba(0, 0, 0, 0.4);
+	color:black;
+}
+#url-shortener .btn-primary {
+	border:none;
+	border-bottom: 3px solid rgb(0, 0, 212);
+	border-bottom-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+}
+#url-shortener input {
+	width:100%;
+	background-color:white;
+	border-radius: 0;
+	border:none;
+	box-shadow: 0px 5px 7px -5px rgba(0, 0, 0, 0.6);
+	font-weight:bold;
+}
+header {
+	font-weight: bold;
+}
+footer {
+
+	box-shadow: 0 -10px 10px -8px rgba(0, 0, 0, 0.6);
+}
